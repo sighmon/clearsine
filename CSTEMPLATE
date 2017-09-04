@@ -1,6 +1,3 @@
-											https://github.com/simonsigre/clearsine
-											
-
 CS-HEADER-APP-1: $APPLICATION
 CS-HEADER-APPVER-1: $APPLICATIONVERSION
 CS-HEADER-PLATFORM: $PLATFORM
@@ -10,21 +7,22 @@ CS-HEADER-OAUTHOR-1: $ORIGINAUTHOR
 CS-HEADER-EDIT-1: $EDITDATE
 CS-HEADER-OAUTHORPK-1: $PGPPUBLICKEY
 CS-HEADER-SUPERSEDES-1: $SUPERSEDES
+CS-HEADER-PROJECT: https://github.com/simonsigre/clearsine
 
 
-1. Introduction
+CS-BODY-INTRODUCTION:
 
 
-2. Objective
+CS-BODY-OBJECTIVE:
 
 
-3. Process
+CS-BODY-PROCESS:
 
 
-4. Comments
+CS-BODY-COMMENTS:
 
 
-5. Support
+CS-BODY-SUPPORT:
 
 
-6. Attribution
+CS-BODY-ATTRIBUTION:
